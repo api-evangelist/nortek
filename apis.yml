@@ -7,9 +7,20 @@ description: >-
   or OpenAPI specifications have been identified at this time; this repository
   tracks Nortek for future API discovery and integration intelligence.
 type: Index
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 position: Producer
 access: Internal
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/nortek.png
 tags:
   - HVAC
   - Data Center Cooling
