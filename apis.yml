@@ -24,6 +24,13 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/nortek.png
 tags:
   - HVAC
   - Data Center Cooling
+  - Clean Room
+  - Manufacturing
+  - Building Systems
+  - Fortune 1000
+tags_raw:
+  - HVAC
+  - Data Center Cooling
   - Cleanroom
   - Manufacturing
   - Building Systems
