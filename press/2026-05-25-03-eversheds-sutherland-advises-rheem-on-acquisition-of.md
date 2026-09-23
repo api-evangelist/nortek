@@ -1,7 +1,9 @@
 ---
 title: Eversheds Sutherland Advises Rheem on Acquisition of ...
 url: https://www.eversheds-sutherland.com/en/united-states/news/eversheds-sutherland-advises-rheem-on-acquisition-of-nortek-global-hvac
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Nortek" press release artificial intelligence'
 position: 3
 source: serpapi-google

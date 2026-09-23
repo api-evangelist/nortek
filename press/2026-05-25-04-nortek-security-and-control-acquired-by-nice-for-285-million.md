@@ -1,7 +1,9 @@
 ---
 title: Nortek Security & Control acquired by Nice for $285 million
 url: https://www.securitysystemsnews.com/article/nortek-security-control-acquired-by-nice-for-285-million
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Nortek" press release artificial intelligence'
 position: 4
 source: serpapi-google

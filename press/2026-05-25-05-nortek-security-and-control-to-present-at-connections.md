@@ -1,7 +1,9 @@
 ---
 title: Nortek Security & Control to Present at CONNECTIONS
 url: https://www.parksassociates.com/blogs/industrypressreleases/nortek-security---control-to-present-at-connections--the-premier-connected-home-conference?page=32
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Nortek" press release artificial intelligence'
 position: 5
 source: serpapi-google
